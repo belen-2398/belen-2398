@@ -1,7 +1,7 @@
 <br>
 <img src="docs/images/banner.jpg" alt="Belen Limardo, Software Developer"/>
 <br>
-<div style="display: block; margin: auto; width: 50%">
+<div>
     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"/>
     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png"/>
     <img style='width: 3rem; height: 3rem; margin-top: 1rem' src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"/> 
@@ -42,25 +42,9 @@ const aboutMe = {
 <a href="https://www.linkedin.com/in/belen-limardo/" target="_blank" alt="LinkedIn">
       <img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-Logo-2019.png" alt="My Linkedin profile" style="width: 150px">
     </a> 
-    <p style="font-size: 50px; margin-left: 1rem; margin-right: 1rem">|</p>
 <a href="mailto:belenrociolimardo@gmail.com" target="_blank" alt="Mail">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="My Email address" style="width: 70px; margin-top: 0.7rem">
 </a>
 </div>
 
    <h3>Thank you for reading!</h3>
- 
-<!--
-**belen-2398/belen-2398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

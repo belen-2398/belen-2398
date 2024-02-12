@@ -18,9 +18,9 @@ const aboutMe = {
   developer: "Full Stack",
   technologies: {
     frontEnd: {
-           Language: ["Html", "Blade", "CSS", "Javascript","React", "jQuery"],
-           Frameworks: ["Vue.js", "Node.js", "Tailwind CSS", "Bootstrap", "Livewire"],
-           Libraries: ["Inertia.js"]
+           Language: ["Html", "CSS", "Javascript"],
+           Frameworks: ["Vue.js", "Node.js", "Tailwind CSS", "Bootstrap", "Livewire", "Laravel Blade"],
+           Libraries: ["Inertia.js", "React", "jQuery"]
      },
      backEnd: {
          Language: [ "PHP"],
